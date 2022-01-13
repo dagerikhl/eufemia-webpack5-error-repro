@@ -1,3 +1,4 @@
+import { Button } from "@dnb/eufemia";
 import logo from './logo.svg';
 import './App.css';
 
@@ -17,6 +18,8 @@ function App() {
         >
           Learn React
         </a>
+
+        <Button>Click me!</Button>
       </header>
     </div>
   );
